@@ -13,14 +13,19 @@ p {
     color: black;
     font-family:'Trebuchet MS', sans-serif;
 }
+
 .center {
     text-align: center;
+}
+.textcenter
+{
+    display: inline-block;
+    text-align: left;
 }
 .topnav{
     background-color: yellow;
     overflow: hidden;
 }
-
 .topnav a {
     float: left;
     color: black;
