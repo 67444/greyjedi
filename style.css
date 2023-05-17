@@ -32,9 +32,11 @@ p {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', sans-serif;
 }
 .topnav a.active {
     background-color: yellow;
     color: grey;
+    font-family:'Trebuchet MS', sans-serif;
 }
