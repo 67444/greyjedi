@@ -13,6 +13,11 @@ p {
     color: black;
     font-family:'Trebuchet MS', sans-serif;
 }
+h2 {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:0ch;
+}
 
 .center {
     text-align: center;
@@ -39,4 +44,9 @@ p {
     background-color: yellow;
     color: grey;
     font-family:'Trebuchet MS', sans-serif;
+}
+.updates {
+    float: left;
+    color:black;
+    text-align:left;
 }
