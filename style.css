@@ -28,7 +28,7 @@ h2 {
     text-align: left;
 }
 .topnav{
-    background-color: yellow;
+    background-image: linear-gradient(yellow,rgb(252, 206, 1));
     overflow: hidden;
 }
 .topnav a {
@@ -41,8 +41,8 @@ h2 {
     font-family:'Trebuchet MS', sans-serif;
 }
 .topnav a.active {
-    background-color: yellow;
-    color: grey;
+    background-image: linear-gradient(rgb(252, 206, 1), yellow);
+    color: rgb(0, 0, 0);
     font-family:'Trebuchet MS', sans-serif;
 }
 .updates {
